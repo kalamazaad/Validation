@@ -1,0 +1,11 @@
+html,body,#root{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background: rgb(230, 242, 238);
+  font-size: 12pt;
+}
+:focus{
+  outline: none;
+}
